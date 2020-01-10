@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSchedule", "TestSchedule\TestSchedule.csproj", "{F7D53AAF-06FA-40FE-8204-66897972B6ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7D53AAF-06FA-40FE-8204-66897972B6ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7D53AAF-06FA-40FE-8204-66897972B6ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7D53AAF-06FA-40FE-8204-66897972B6ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7D53AAF-06FA-40FE-8204-66897972B6ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E505413-F7CF-447B-9358-3E925C08DDAA}
+	EndGlobalSection
+EndGlobal
